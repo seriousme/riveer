@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Riveer assistent demo</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse bg-inverse">
+      <div class="container text-light">
+        <span class="navbar-brand">Riveer assistent demo</span>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <p><a href="https://www.riveer.nl/">Riveer</a> is een veerdienst in de regio Gorinchem.
+            Deze demo is gemaakt om te kijken of het mogelijk is om
+             met een spraakgestuurde interface 
+             (bv <a href="https://assistant.google.com/intl/nl_nl/">Google Assistent</a>) vragen 
+             te stellen over deze veerdienst.</p>
+             <p>Vragen die gesteld kunnen worden zijn bijvoorbeeld:
+               <ul>
+                 <li>Wat kun je doen?</li>
+                 <li>Hoe laat gaat de pont?</li>
+                 <li>Hoe laat vertrekt de pont na 12 uur?</li>
+                 <li>Hoe laat gaat morgen de pont naar Gorinchem?</li>
+                 <li>hoe laat gaat de laatste pont op donderdag?</li>
+                 <li>Wat kost een kaartje?</li>
+               </ul>
+             </p>
+             <p>Deze demo kent alleen de volgende havens:
+               <ul>
+                 <li>Gorinchem (Gorkum mag ook)</li>
+                 <li>Werkendam</li>
+                 <li>Hardinxveld</li>
+               </ul>
+               Andere havens zijn eenvoudig toe te voegen maar maken de demo niet veel anders.
+               De route-informatie is eenmalig opgehaald van de Riveer website maar wordt niet actief onderhouden.
+             </p>
+
+        </div>
+
+        <div class="col-md-6">
+          <iframe
+            allow="microphone;"
+            width="350"
+            height="430"
+            src="https://console.dialogflow.com/api-client/demo/embedded/0ffbc118-962d-452b-9594-07d258081b96"
+          >
+          </iframe>
+        </div>
+      </div>
+    </div>
+    <div class="footer navbar-fixed-bottom text-center">
+      <small>Het eigendom van het merk Riveer en de data die deze demo gebruikt ligt bij Riveer.</small>
+    </div>
+  </body>
+</html>

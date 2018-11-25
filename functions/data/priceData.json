@@ -1,0 +1,29 @@
+[
+  {
+    "origin": "Hardinxveld",
+    "destination": "Werkendam",
+    "priceInfo": {
+      "enkele reis": "1.5 euro",
+      "retour": "3 euro",
+      "10-ritten kaart": "10 euro"
+    }
+  },
+  {
+    "origin": "Hardinxveld",
+    "destination": "Gorinchem",
+    "priceInfo": {
+      "enkele reis": "2 euro",
+      "retour": "4 euro",
+      "10-ritten kaart": "13 euro"
+    }
+  },
+  {
+    "origin": "Werkendam",
+    "destination": "Gorinchem",
+    "priceInfo": {
+      "enkele reis": "2 euro",
+      "retour": "4 euro",
+      "10-ritten kaart": "13 euro"
+    }
+  }
+]

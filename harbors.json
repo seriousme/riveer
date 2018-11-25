@@ -1,0 +1,74 @@
+[
+  {
+    "guid": "edeb018b-062c-11e6-8471-5254006eaa2f",
+    "name": "Hardinxveld",
+    "hub": false,
+    "hub_for": null
+  },
+  {
+    "guid": "fe55a6c2-062c-11e6-8471-5254006eaa2f",
+    "name": "Werkendam",
+    "hub": false,
+    "hub_for": null
+  },
+  {
+    "guid": "15095e42-062d-11e6-8471-5254006eaa2f",
+    "name": "Gorinchem",
+    "hub": true,
+    "hub_for": "Overstappen voor Werkendam, Hardinxveld, Sleeuwijk, Woudrichem, Fort Vuren, Loevestein"
+  },
+  {
+    "guid": "26f79ad7-062d-11e6-8471-5254006eaa2f",
+    "name": "Sleeuwijk",
+    "hub": false,
+    "hub_for": null
+  },
+  {
+    "guid": "3ba867d1-062d-11e6-8471-5254006eaa2f",
+    "name": "Woudrichem",
+    "hub": true,
+    "hub_for": "Overstappen voor Gorinchem, Loevestein, Fort Vuren"
+  },
+  {
+    "guid": "5092a074-062d-11e6-8471-5254006eaa2f",
+    "name": "Fort Vuren",
+    "hub": false,
+    "hub_for": null
+  },
+  {
+    "guid": "6288370f-062d-11e6-8471-5254006eaa2f",
+    "name": "Slot Loevestein",
+    "hub": false,
+    "hub_for": null
+  },
+  {
+    "guid": "75d2e5f4-062d-11e6-8471-5254006eaa2f",
+    "name": "Herwijnen",
+    "hub": false,
+    "hub_for": null
+  },
+  {
+    "guid": "8169af45-062d-11e6-8471-5254006eaa2f",
+    "name": "Brakel",
+    "hub": false,
+    "hub_for": null
+  },
+  {
+    "guid": "ea741ed4-062d-11e6-8471-5254006eaa2f",
+    "name": "Aalst",
+    "hub": false,
+    "hub_for": null
+  },
+  {
+    "guid": "f5e2f31a-062d-11e6-8471-5254006eaa2f",
+    "name": "Veen",
+    "hub": false,
+    "hub_for": null
+  },
+  {
+    "guid": "bd3c3470-5376-11e7-8546-525400609b30",
+    "name": "Zaltbommel",
+    "hub": false,
+    "hub_for": null
+  }
+]

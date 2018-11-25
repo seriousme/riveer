@@ -1,0 +1,917 @@
+[
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "06:37",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "06:43",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "06:57",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "06:45",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "07:01",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "07:07",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "07:13",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "07:27",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "07:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "07:31",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "07:37",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "07:43",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "07:57",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "07:45",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "08:01",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "08:07",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "08:13",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "08:27",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "08:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "08:31",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "08:37",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "08:43",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "08:57",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "08:45",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "09:01",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "09:07",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "09:13",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "09:27",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "09:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "09:31",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "09:37",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "09:43",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "09:57",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "10:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "10:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "10:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "10:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "11:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "11:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "11:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "11:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "11:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "12:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "12:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "12:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "12:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "12:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "13:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "13:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "13:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "13:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "13:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "14:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "14:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "14:31",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "14:37",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "14:43",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "14:57",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "14:45",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "15:01",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "15:07",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "15:13",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "15:27",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "15:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "15:31",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "15:37",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "15:43",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "15:57",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "15:45",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "16:01",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "16:07",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "16:13",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "16:27",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "16:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "16:31",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "16:37",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "16:43",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "16:57",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "16:45",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "17:01",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "17:07",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "17:13",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "17:27",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "17:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "17:31",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "17:37",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "17:43",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "17:57",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "ma-vr",
+    "stops": [
+      {
+        "time": "17:45",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "18:01",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "18:07",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "18:13",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "18:27",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "do",
+    "stops": [
+      {
+        "time": "21:30",
+        "harbor": "Gorinchem",
+        "remarks": "Deze pont vaart alleen als er passagiers zijn"
+      },
+      {
+        "time": "21:40",
+        "harbor": "Werkendam"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "08:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "08:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "08:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "08:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "09:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "09:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "09:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "09:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "09:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "10:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "10:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "10:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "10:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "10:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "11:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "11:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "11:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "11:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "11:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "12:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "12:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "12:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "12:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "12:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "13:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "13:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "13:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "13:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "13:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "14:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "14:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "14:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "14:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "14:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "15:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "15:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "15:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "15:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "15:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "16:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "16:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "16:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "16:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "16:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "17:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "za",
+    "stops": [
+      {
+        "time": "17:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "17:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "17:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "17:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "18:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "zo",
+    "stops": [
+      {
+        "time": "12:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "12:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "12:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "12:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "13:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "zo",
+    "stops": [
+      {
+        "time": "13:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "13:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "13:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "13:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "14:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "zo",
+    "stops": [
+      {
+        "time": "14:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "14:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "14:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "14:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "15:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "zo",
+    "stops": [
+      {
+        "time": "15:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "15:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "15:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "15:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "16:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "zo",
+    "stops": [
+      {
+        "time": "16:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "16:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "16:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "16:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "17:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  },
+  {
+    "days": "zo",
+    "stops": [
+      {
+        "time": "17:15",
+        "harbor": "Gorinchem",
+        "jetty":"steiger 1"
+      },
+      {
+        "time": "17:37",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "17:46",
+        "harbor": "Hardinxveld"
+      },
+      {
+        "time": "17:54",
+        "harbor": "Werkendam"
+      },
+      {
+        "time": "18:12",
+        "harbor": "Gorinchem"
+      }
+    ]
+  }
+]
